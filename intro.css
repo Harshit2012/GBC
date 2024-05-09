@@ -1,0 +1,37 @@
+#body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+#intro {
+    text-align: center;
+    background-image: url(images.png);
+    width: 100%;
+    perspective: 200px;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+}
+
+#create_btn {
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+    border: 5px solid orange;
+    transform: rotateY(30deg);
+    transition: all 1s ease;
+}
+
+#create_btn:hover {
+    cursor: pointer;
+    background-color: orange;
+    transform: scale(1.1);
+    color: white;
+}

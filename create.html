@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Badge Creator</title>
+    <link rel="stylesheet" href="create.css">
+    <link rel="icon" href="logo.jpg">
+</head>
+<body>
+    <div class="container">
+        <img id="logo" src="logo.jpg" alt="offline">
+        <h1>GBC</h1>
+        <label for="badgeType">Select Badge Type:</label>
+        <select id="badgeType">
+            <option value="stars">Stars</option>
+            <option value="forks">Forks</option>
+            <option value="watchers">Watchers</option>
+            <option value="license">License</option>
+            <option value="release">Release</option>
+        </select>
+        <label for="username">GitHub Username:</label>
+        <input type="text" id="username" placeholder="Enter your GitHub username">
+        <label for="repository">Repository Name:</label>
+        <input type="text" id="repository" placeholder="Enter your repository name">
+        <button id="generateBtn">Generate Markdown</button>
+        <div id="markdownCode"></div>
+        <button id="copyBtn">Copy Markdown</button>
+    </div>
+    <script src="create.js"></script>
+</body>
+</html>
