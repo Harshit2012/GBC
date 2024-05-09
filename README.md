@@ -1,7 +1,7 @@
 # GBC
 Get the markdown to create badges in readme.md
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/GBCr?tab=MIT-1-ov-file#readme)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/Harshit2012/GBC?tab=MIT-1-ov-file#readme)
 ![GitHub Release](https://img.shields.io/github/v/release/harshit2012/gbc)
 ![Forks](https://img.shields.io/github/forks/harshit2012/gbc)
 ![Stars](https://img.shields.io/github/stars/harshit2012/gbc)
