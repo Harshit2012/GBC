@@ -23,6 +23,11 @@ Get the markdown to create badges in readme.md
 4. Push your branch: git push origin feature-name.
 5. Create a pull request.
 
+## To run⚙️
+1. Fork the repository
+2. Open in the text editor
+3. Run `intro.html`
+
 ## Preview
 ![Screenshot (52)](https://github.com/Harshit2012/GBC/assets/105143145/7bba7625-f804-4584-b3e6-4229a4f5dbdb)
 
