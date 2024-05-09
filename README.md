@@ -24,7 +24,7 @@ Get the markdown to create badges in readme.md
 5. Create a pull request.
 
 ## Preview
-![Screenshot (52)](https://github.com/Harshit2012/GBC/assets/105143145/00c59d36-d952-47b5-9f11-47304a12ca49)
+![Screenshot (52)](https://github.com/Harshit2012/GBC/assets/105143145/7bba7625-f804-4584-b3e6-4229a4f5dbdb)
 
 ## License
 This repository is under [MIT License](https://github.com/Harshit2012/GBC?tab=MIT-1-ov-file)
